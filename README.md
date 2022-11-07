@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yjia28tan
+- 👋 Hi, I’m Yi Jia Tan @yjia28tan
 - 👀 I’m interested in everythings but also not interested in everythings
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on ...
