@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yi Jia Tan @yjia28tan
 - 👀 I’m interested in Data Science, and Software Engineering
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently studying Bachelor of Science with Honors in Computer Science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://www.linkedin.com/in/yi-jia-tan-507613288/
 
